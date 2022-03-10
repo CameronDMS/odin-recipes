@@ -1,0 +1,28 @@
+body {
+    background-color: aliceblue;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    background-color: antiquewhite;
+}
+
+.link {
+    font-size: 30px;
+    margin-left: 395px;
+}
+
+.link.bread {
+    color: red;
+}
+
+.link.bagel {
+    color: cornflowerblue;
+}
+
+img {
+    width: 700px;
+    height: 700px;
+}
